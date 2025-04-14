@@ -14,3 +14,5 @@ elif not passwrord_digits:
     print("Sorry. Your password should at least have one integer")
 else:
     print("Congrats. You have entered a valid password.")
+
+####################################################### it's just a instance of my code
